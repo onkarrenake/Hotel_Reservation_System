@@ -3,6 +3,10 @@ Admin Login
 username : admin@gmail.com
 password : admin@123
 
-----------------------------------------
+-------------------------------------------------
+Run Localhost on computer
+http://localhost:8080/hotelmanagment/
+
+-------------------------------------------------
 MySql Database in database folder
-----------------------------------------
+-------------------------------------------------
